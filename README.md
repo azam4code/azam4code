@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azam</h1>
-<h3 align="center">'m a front-end developer with over 5 years of experience in HTML, CSS/SCSS, and JavaScript.</h3>
+<h3 align="center">'m a front-end developer with over 5 years of experience in HTML, CSS/SCSS, and JavaScript.'</h3>
  
 - 🔭 I’m currently working on [Header 101](https://github.com/azam4code/header-101)
 
