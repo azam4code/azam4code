@@ -34,12 +34,12 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  </p>
  
- - <p align="left">
+ <p align="left"> &nbsp;&nbsp;
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=azam4code&show_icons=true&count_private=true&theme=dark" width="350">
   </a>
  </p>
 
-- <p align="left">
+ <p align="left"> &nbsp;&nbsp;
   <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=azam4code&theme=dark" alt="azam4code" />
 </p>
  <img src="https://github.com/azam4code/azam4code/blob/master/devcard.svg" width="400" alt="Azam's Dev Card"/> 
