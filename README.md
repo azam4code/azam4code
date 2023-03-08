@@ -36,7 +36,7 @@
  </br></br>
  <div align="left"> 
  <a href="https://app.daily.dev/mazam">
- <img src="https://github.com/azam4code/azam4code/blob/main/devcard.svg" width="400" alt="Azam's Dev Card" align="left" />
+ <img src="https://github.com/azam4code/azam4code/blob/main/devcard.svg" width="300" alt="Azam's Dev Card" align="left" />
 </a>
     <a href="#">&nbsp;&nbsp; 
      <img src="https://github-readme-stats.vercel.app/api?username=azam4code&show_icons=true&count_private=true&theme=dark" width="400">
