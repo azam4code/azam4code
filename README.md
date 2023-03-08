@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azam</h1>
-<h3 align="center">'m a front-end developer with over 5 years of experience in HTML, CSS/SCSS, and JavaScript.'</h3>
+<h3 align="center">I'm a front-end developer with over 5 years of experience in HTML, CSS/SCSS, and JavaScript.'</h3>
  
 - 🔭 I’m currently working on [Header 101](https://github.com/azam4code/header-101)
 
@@ -33,13 +33,17 @@
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  </p>
+ </br></br>
+ <div align="left"> 
+ <a href="https://app.daily.dev/mazam">
+ <img src="https://github.com/azam4code/azam4code/blob/main/devcard.svg" width="300" alt="Azam's Dev Card" align="left" />
+</a>
+    <a href="#">&nbsp;&nbsp; 
+     <img src="https://github-readme-stats.vercel.app/api?username=azam4code&show_icons=true&count_private=true&theme=dark" width="350">
+    </a>
+     </br></br> 
+   <a hred="">&nbsp;&nbsp; 
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=azam4code&theme=dark" alt="azam4code" width="350" />
+   </a> 
  
- <p align="left"> &nbsp;&nbsp;
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=azam4code&show_icons=true&count_private=true&theme=dark" width="350">
-  </a>
- </p>
-
- <p align="left"> &nbsp;&nbsp;
-  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=azam4code&theme=dark" alt="azam4code" />
-</p>
- <img src="https://github.com/azam4code/azam4code/blob/master/devcard.svg" width="400" alt="Azam's Dev Card"/> 
+</div>
