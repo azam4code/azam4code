@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs, ThreeJs, GSAP**
 
-- 👨‍💻 Poerfolio at [https://azam4code.github.io/](https://azam4code.github.io/)
+- 👨‍💻 Portfolio at [https://azam4code.github.io/](https://azam4code.github.io/)
 
 - 📫 How to reach me **mazam8414@gmail.com**
  
