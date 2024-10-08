@@ -3,15 +3,18 @@
 
 Proficient in HTML, CSS, SCSS, Bootstrap, and Tailwind, I ensure high-quality, responsive designs that look stunning on all devices. My expertise in JavaScript, jQuery, and advanced animation libraries like GSAP brings websites to life with smooth, interactive features that enhance user engagement. </h4>
 
-💎 Core Skills:
-➡️ Responsive Web Development: Delivering pixel-perfect, responsive websites that look great on any device.
-➡️ CSS Frameworks: Expert in Bootstrap and Tailwind CSS for fast, scalable, and beautiful front-end development.
-➡️ Animation & Interactivity: Crafting smooth animations using GSAP and other JavaScript libraries for dynamic user experiences.
-➡️ UI/UX Design: Designing intuitive and visually compelling user interfaces using Figma and Framer.
-➡️ JavaScript Expertise: Strong proficiency in JavaScript and jQuery, with a focus on creating interactive and user-friendly web interfaces.
-➡️ Cross-Browser Optimization: Ensuring consistent performance across all major browsers.
-I am passionate about clean, efficient code and delivering exceptional user experiences. Let's collaborate to turn your ideas into reality and take your digital presence to the next level.</h3>
- 
+
+<h3 align="left">💎 Core Skills:</h3>
+<h5 align="left">➡️ Responsive Web Development: Delivering pixel-perfect, responsive websites that look great on any device.</h5>
+<h5 align="left">➡️ CSS Frameworks: Expert in Bootstrap and Tailwind CSS for fast, scalable, and beautiful front-end development.</h5>
+<h5 align="left">➡️ Animation & Interactivity: Crafting smooth animations using GSAP and other JavaScript libraries for dynamic user experiences.</h5>
+<h5 align="left">➡️ UI/UX Design: Designing intuitive and visually compelling user interfaces using Figma and Framer.</h5>
+<h5 align="left">➡️ JavaScript Expertise: Strong proficiency in JavaScript and jQuery, with a focus on creating interactive and user-friendly web interfaces.</h5>
+<h5 align="left">➡️ Cross-Browser Optimization: Ensuring consistent performance across all major browsers.</h5>
+<h5 align="left">I am passionate about clean, efficient code and delivering exceptional user experiences. Let's collaborate to turn your ideas into reality and take your digital presence to the next level.</h3></h5>
+
+
+
 - 🔭 I’m currently working on [Header 101](https://github.com/azam4code/header-101)
 
 - 🌱 I’m currently learning **ReactJs, ThreeJs, GSAP**
