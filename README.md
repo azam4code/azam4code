@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azam</h1>
-<h3 align="left">With over 5+ years of experience, I am a Front-End Developer and UI Designer dedicated to transforming complex designs into functional, responsive, and engaging web applications. I specialize in creating seamless digital experiences with a blend of modern web technologies and creative design tools.
+<h4 align="left">With over 5+ years of experience, I am a Front-End Developer and UI Designer dedicated to transforming complex designs into functional, responsive, and engaging web applications. I specialize in creating seamless digital experiences with a blend of modern web technologies and creative design tools.
 
-Proficient in HTML, CSS, SCSS, Bootstrap, and Tailwind, I ensure high-quality, responsive designs that look stunning on all devices. My expertise in JavaScript, jQuery, and advanced animation libraries like GSAP brings websites to life with smooth, interactive features that enhance user engagement.
+Proficient in HTML, CSS, SCSS, Bootstrap, and Tailwind, I ensure high-quality, responsive designs that look stunning on all devices. My expertise in JavaScript, jQuery, and advanced animation libraries like GSAP brings websites to life with smooth, interactive features that enhance user engagement. </h4>
 
 💎 Core Skills:
 ➡️ Responsive Web Development: Delivering pixel-perfect, responsive websites that look great on any device.
